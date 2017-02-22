@@ -1,0 +1,48 @@
+00400000-00402000 r-xp 00000000 08:05 5249421                            /home/tb/Projects/AdvOSLab1/print_map
+00601000-00602000 r--p 00001000 08:05 5249421                            /home/tb/Projects/AdvOSLab1/print_map
+00602000-00603000 rw-p 00002000 08:05 5249421                            /home/tb/Projects/AdvOSLab1/print_map
+025b0000-025d1000 rw-p 00000000 00:00 0                                  [heap]
+7ff3b05e6000-7ff3b07a5000 r-xp 00000000 08:05 5775180                    /lib/x86_64-linux-gnu/libc-2.23.so
+7ff3b07a5000-7ff3b09a5000 ---p 001bf000 08:05 5775180                    /lib/x86_64-linux-gnu/libc-2.23.so
+7ff3b09a5000-7ff3b09a9000 r--p 001bf000 08:05 5775180                    /lib/x86_64-linux-gnu/libc-2.23.so
+7ff3b09a9000-7ff3b09ab000 rw-p 001c3000 08:05 5775180                    /lib/x86_64-linux-gnu/libc-2.23.so
+7ff3b09ab000-7ff3b09af000 rw-p 00000000 00:00 0 
+7ff3b09af000-7ff3b09d5000 r-xp 00000000 08:05 5771709                    /lib/x86_64-linux-gnu/ld-2.23.so
+7ff3b0bb3000-7ff3b0bb6000 rw-p 00000000 00:00 0 
+7ff3b0bd2000-7ff3b0bd4000 rw-p 00000000 00:00 0 
+7ff3b0bd4000-7ff3b0bd5000 r--p 00025000 08:05 5771709                    /lib/x86_64-linux-gnu/ld-2.23.so
+7ff3b0bd5000-7ff3b0bd6000 rw-p 00026000 08:05 5771709                    /lib/x86_64-linux-gnu/ld-2.23.so
+7ff3b0bd6000-7ff3b0bd7000 rw-p 00000000 00:00 0 
+7ffcfd465000-7ffcfd486000 rw-p 00000000 00:00 0                          [stack]
+7ffcfd550000-7ffcfd552000 r--p 00000000 00:00 0                          [vvar]
+7ffcfd552000-7ffcfd554000 r-xp 00000000 00:00 0                          [vdso]
+ffffffffff600000-ffffffffff601000 r-xp 00000000 00:00 0                  [vsyscall]
+Clearing cache
+Setting cpu affinity
+starting instrumented stuff
+ending instrumented stuff
+L1 Data Cache Read Accesses: 43890354738
+L1 Data Cache Write Accesses: 270327363
+L1 Data Cache Prefetch Accesses: 0
+L1 Data Cache Read Misses: 15179565
+L1 Data Cache Prefetch Misses: 0
+DTLB Read Misses: 425680
+
+User CPU Seconds: 65
+User CPU uSeconds: 112000
+System CPU Seconds: 0
+System CPU uSeconds: 252000
+Max Resident Set Size: 1049740
+Integral Shared Mem Size: 0
+Integral Unshared Mem Size: 0
+Integral Unshared Stack Size: 0
+Page Reclaims (Soft Page Faults): 1551
+Hard Page Faults: 0
+Swaps: 0
+Block Input Ops: 0
+Block Output Ops: 0
+IPC Msgs Sent: 0
+IPC Msgs Rcvd: 0
+Signals Rcvd: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 6641

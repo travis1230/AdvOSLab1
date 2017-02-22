@@ -1,0 +1,1356 @@
+ANON MAP PRIVATE SEQUENTIAL
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44350022390
+L1 Data Cache Read Misses: 9733039
+DTLB Read Misses: 11096
+
+User CPU Seconds: 58
+User CPU uSeconds: 780000
+System CPU Seconds: 0
+System CPU uSeconds: 176000
+Page Reclaims (Soft Page Faults): 1138
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 4969
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44336932175
+L1 Data Cache Read Misses: 8972059
+DTLB Read Misses: 12656
+
+User CPU Seconds: 58
+User CPU uSeconds: 664000
+System CPU Seconds: 0
+System CPU uSeconds: 152000
+Page Reclaims (Soft Page Faults): 1139
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 4956
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44336724773
+L1 Data Cache Read Misses: 9310672
+DTLB Read Misses: 11491
+
+User CPU Seconds: 58
+User CPU uSeconds: 756000
+System CPU Seconds: 0
+System CPU uSeconds: 208000
+Page Reclaims (Soft Page Faults): 1139
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 4968
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44339662791
+L1 Data Cache Read Misses: 9556673
+DTLB Read Misses: 11904
+
+User CPU Seconds: 58
+User CPU uSeconds: 752000
+System CPU Seconds: 0
+System CPU uSeconds: 216000
+Page Reclaims (Soft Page Faults): 1138
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 4970
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44349416420
+L1 Data Cache Read Misses: 9338745
+DTLB Read Misses: 11289
+
+User CPU Seconds: 58
+User CPU uSeconds: 792000
+System CPU Seconds: 0
+System CPU uSeconds: 192000
+Page Reclaims (Soft Page Faults): 1139
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 4971
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44355003598
+L1 Data Cache Read Misses: 9428376
+DTLB Read Misses: 11298
+
+User CPU Seconds: 58
+User CPU uSeconds: 760000
+System CPU Seconds: 0
+System CPU uSeconds: 168000
+Page Reclaims (Soft Page Faults): 1140
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 4967
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44339099634
+L1 Data Cache Read Misses: 10759547
+DTLB Read Misses: 11672
+
+User CPU Seconds: 58
+User CPU uSeconds: 772000
+System CPU Seconds: 0
+System CPU uSeconds: 208000
+Page Reclaims (Soft Page Faults): 1139
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 4971
+---------------------------------------------
+ANON MAP PRIVATE RANDOM
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44329698635
+L1 Data Cache Read Misses: 11682277
+DTLB Read Misses: 404171
+
+User CPU Seconds: 58
+User CPU uSeconds: 360000
+System CPU Seconds: 0
+System CPU uSeconds: 224000
+Page Reclaims (Soft Page Faults): 1536
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 4937
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44320940715
+L1 Data Cache Read Misses: 11955454
+DTLB Read Misses: 403194
+
+User CPU Seconds: 58
+User CPU uSeconds: 384000
+System CPU Seconds: 0
+System CPU uSeconds: 196000
+Page Reclaims (Soft Page Faults): 1559
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 4938
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44312474031
+L1 Data Cache Read Misses: 11683040
+DTLB Read Misses: 404622
+
+User CPU Seconds: 58
+User CPU uSeconds: 340000
+System CPU Seconds: 0
+System CPU uSeconds: 268000
+Page Reclaims (Soft Page Faults): 1549
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 4941
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44318673268
+L1 Data Cache Read Misses: 10949042
+DTLB Read Misses: 406037
+
+User CPU Seconds: 58
+User CPU uSeconds: 412000
+System CPU Seconds: 0
+System CPU uSeconds: 232000
+Page Reclaims (Soft Page Faults): 1556
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 4940
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44315596865
+L1 Data Cache Read Misses: 12043129
+DTLB Read Misses: 403219
+
+User CPU Seconds: 58
+User CPU uSeconds: 400000
+System CPU Seconds: 0
+System CPU uSeconds: 224000
+Page Reclaims (Soft Page Faults): 1554
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 4942
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44320741019
+L1 Data Cache Read Misses: 11975259
+DTLB Read Misses: 402400
+
+User CPU Seconds: 58
+User CPU uSeconds: 336000
+System CPU Seconds: 0
+System CPU uSeconds: 248000
+Page Reclaims (Soft Page Faults): 1556
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 4935
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44312936007
+L1 Data Cache Read Misses: 11106688
+DTLB Read Misses: 402957
+
+User CPU Seconds: 58
+User CPU uSeconds: 372000
+System CPU Seconds: 0
+System CPU uSeconds: 236000
+Page Reclaims (Soft Page Faults): 1501
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 4939
+---------------------------------------------
+FILE BACKED MAP PRIVATE SEQUENTIAL
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44269545198
+L1 Data Cache Read Misses: 23100601
+DTLB Read Misses: 4329038
+
+User CPU Seconds: 60
+User CPU uSeconds: 104000
+System CPU Seconds: 1
+System CPU uSeconds: 472000
+Page Reclaims (Soft Page Faults): 262259
+Hard Page Faults: 1
+Swaps: 0
+Voluntary Context Switches: 8185
+Involuntary Context Switches: 5368
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44324683769
+L1 Data Cache Read Misses: 23171998
+DTLB Read Misses: 4329761
+
+User CPU Seconds: 58
+User CPU uSeconds: 720000
+System CPU Seconds: 0
+System CPU uSeconds: 528000
+Page Reclaims (Soft Page Faults): 262260
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 5011
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44340908934
+L1 Data Cache Read Misses: 23773059
+DTLB Read Misses: 4331405
+
+User CPU Seconds: 58
+User CPU uSeconds: 584000
+System CPU Seconds: 0
+System CPU uSeconds: 524000
+Page Reclaims (Soft Page Faults): 262261
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 4981
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44328857185
+L1 Data Cache Read Misses: 23516328
+DTLB Read Misses: 4329937
+
+User CPU Seconds: 58
+User CPU uSeconds: 612000
+System CPU Seconds: 0
+System CPU uSeconds: 488000
+Page Reclaims (Soft Page Faults): 262262
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 4982
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44347346115
+L1 Data Cache Read Misses: 23360721
+DTLB Read Misses: 4328720
+
+User CPU Seconds: 58
+User CPU uSeconds: 596000
+System CPU Seconds: 0
+System CPU uSeconds: 544000
+Page Reclaims (Soft Page Faults): 262259
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 4985
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44337383284
+L1 Data Cache Read Misses: 22477780
+DTLB Read Misses: 4330675
+
+User CPU Seconds: 58
+User CPU uSeconds: 568000
+System CPU Seconds: 0
+System CPU uSeconds: 564000
+Page Reclaims (Soft Page Faults): 262262
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 4985
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44346357059
+L1 Data Cache Read Misses: 22663747
+DTLB Read Misses: 4328780
+
+User CPU Seconds: 58
+User CPU uSeconds: 896000
+System CPU Seconds: 0
+System CPU uSeconds: 548000
+Page Reclaims (Soft Page Faults): 262263
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 5010
+---------------------------------------------
+FILE BACKED MAP PRIVATE RANDOM
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44326033924
+L1 Data Cache Read Misses: 27415586
+DTLB Read Misses: 4964603
+
+User CPU Seconds: 59
+User CPU uSeconds: 68000
+System CPU Seconds: 0
+System CPU uSeconds: 608000
+Page Reclaims (Soft Page Faults): 278628
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 5029
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44323549858
+L1 Data Cache Read Misses: 27004694
+DTLB Read Misses: 4962730
+
+User CPU Seconds: 58
+User CPU uSeconds: 968000
+System CPU Seconds: 0
+System CPU uSeconds: 640000
+Page Reclaims (Soft Page Faults): 278631
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 5025
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44327625350
+L1 Data Cache Read Misses: 27169915
+DTLB Read Misses: 4964750
+
+User CPU Seconds: 59
+User CPU uSeconds: 112000
+System CPU Seconds: 0
+System CPU uSeconds: 628000
+Page Reclaims (Soft Page Faults): 278631
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 5035
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44322752147
+L1 Data Cache Read Misses: 27518722
+DTLB Read Misses: 4965647
+
+User CPU Seconds: 59
+User CPU uSeconds: 92000
+System CPU Seconds: 0
+System CPU uSeconds: 672000
+Page Reclaims (Soft Page Faults): 278629
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 5037
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44321827137
+L1 Data Cache Read Misses: 27092781
+DTLB Read Misses: 4964634
+
+User CPU Seconds: 58
+User CPU uSeconds: 824000
+System CPU Seconds: 0
+System CPU uSeconds: 652000
+Page Reclaims (Soft Page Faults): 278629
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 5013
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44329854981
+L1 Data Cache Read Misses: 27238703
+DTLB Read Misses: 4963515
+
+User CPU Seconds: 58
+User CPU uSeconds: 944000
+System CPU Seconds: 0
+System CPU uSeconds: 624000
+Page Reclaims (Soft Page Faults): 278628
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 5020
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44330256678
+L1 Data Cache Read Misses: 27153705
+DTLB Read Misses: 4963423
+
+User CPU Seconds: 59
+User CPU uSeconds: 216000
+System CPU Seconds: 0
+System CPU uSeconds: 620000
+Page Reclaims (Soft Page Faults): 278634
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 5043
+---------------------------------------------
+FILE BACKED SEQUENTIAL MAP SHARED
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44331533463
+L1 Data Cache Read Misses: 17378714
+DTLB Read Misses: 5128069
+
+User CPU Seconds: 59
+User CPU uSeconds: 680000
+System CPU Seconds: 1
+System CPU uSeconds: 204000
+Page Reclaims (Soft Page Faults): 1334387
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 86
+Involuntary Context Switches: 5185
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44404168877
+L1 Data Cache Read Misses: 18423315
+DTLB Read Misses: 6140586
+
+User CPU Seconds: 60
+User CPU uSeconds: 836000
+System CPU Seconds: 2
+System CPU uSeconds: 356000
+Page Reclaims (Soft Page Faults): 2671732
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 185
+Involuntary Context Switches: 5491
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44402800215
+L1 Data Cache Read Misses: 19017260
+DTLB Read Misses: 5886365
+
+User CPU Seconds: 60
+User CPU uSeconds: 968000
+System CPU Seconds: 2
+System CPU uSeconds: 220000
+Page Reclaims (Soft Page Faults): 2322653
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 149
+Involuntary Context Switches: 5688
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44442676107
+L1 Data Cache Read Misses: 18169016
+DTLB Read Misses: 6157393
+
+User CPU Seconds: 60
+User CPU uSeconds: 872000
+System CPU Seconds: 2
+System CPU uSeconds: 260000
+Page Reclaims (Soft Page Faults): 2678900
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 170
+Involuntary Context Switches: 5434
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44361111803
+L1 Data Cache Read Misses: 18076554
+DTLB Read Misses: 6374820
+
+User CPU Seconds: 61
+User CPU uSeconds: 28000
+System CPU Seconds: 2
+System CPU uSeconds: 544000
+Page Reclaims (Soft Page Faults): 2980980
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 206
+Involuntary Context Switches: 5484
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44413428862
+L1 Data Cache Read Misses: 18845929
+DTLB Read Misses: 6153354
+
+User CPU Seconds: 61
+User CPU uSeconds: 200000
+System CPU Seconds: 2
+System CPU uSeconds: 200000
+Page Reclaims (Soft Page Faults): 2678900
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 177
+Involuntary Context Switches: 5459
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44422718869
+L1 Data Cache Read Misses: 17728330
+DTLB Read Misses: 6268053
+
+User CPU Seconds: 60
+User CPU uSeconds: 504000
+System CPU Seconds: 2
+System CPU uSeconds: 448000
+Page Reclaims (Soft Page Faults): 2898595
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 138
+Involuntary Context Switches: 5389
+---------------------------------------------
+FILE BACKED RANDOM MAP SHARED
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44365330334
+L1 Data Cache Read Misses: 22766795
+DTLB Read Misses: 6509227
+
+User CPU Seconds: 60
+User CPU uSeconds: 396000
+System CPU Seconds: 2
+System CPU uSeconds: 32000
+Page Reclaims (Soft Page Faults): 1962014
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 50
+Involuntary Context Switches: 5283
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44357072836
+L1 Data Cache Read Misses: 22719890
+DTLB Read Misses: 6307605
+
+User CPU Seconds: 60
+User CPU uSeconds: 608000
+System CPU Seconds: 1
+System CPU uSeconds: 836000
+Page Reclaims (Soft Page Faults): 1745373
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 45
+Involuntary Context Switches: 5338
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44352543668
+L1 Data Cache Read Misses: 22181344
+DTLB Read Misses: 6121178
+
+User CPU Seconds: 60
+User CPU uSeconds: 288000
+System CPU Seconds: 1
+System CPU uSeconds: 636000
+Page Reclaims (Soft Page Faults): 1535863
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 43
+Involuntary Context Switches: 5260
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44360983751
+L1 Data Cache Read Misses: 22749128
+DTLB Read Misses: 6509533
+
+User CPU Seconds: 60
+User CPU uSeconds: 316000
+System CPU Seconds: 2
+System CPU uSeconds: 116000
+Page Reclaims (Soft Page Faults): 1960113
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 52
+Involuntary Context Switches: 5292
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44394681397
+L1 Data Cache Read Misses: 23147521
+DTLB Read Misses: 6652676
+
+User CPU Seconds: 60
+User CPU uSeconds: 200000
+System CPU Seconds: 2
+System CPU uSeconds: 272000
+Page Reclaims (Soft Page Faults): 2104195
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 47
+Involuntary Context Switches: 5289
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44369685582
+L1 Data Cache Read Misses: 22293530
+DTLB Read Misses: 6465865
+
+User CPU Seconds: 60
+User CPU uSeconds: 516000
+System CPU Seconds: 1
+System CPU uSeconds: 876000
+Page Reclaims (Soft Page Faults): 1909938
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 51
+Involuntary Context Switches: 5298
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44343611331
+L1 Data Cache Read Misses: 22553552
+DTLB Read Misses: 6523203
+
+User CPU Seconds: 60
+User CPU uSeconds: 504000
+System CPU Seconds: 2
+System CPU uSeconds: 4000
+Page Reclaims (Soft Page Faults): 1973533
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 50
+Involuntary Context Switches: 5300
+---------------------------------------------
+FILE BACKED SEQUENTIAL MAP PRIVATE MAP POPULATE
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44342736878
+L1 Data Cache Read Misses: 15539475
+DTLB Read Misses: 4198881
+
+User CPU Seconds: 58
+User CPU uSeconds: 940000
+System CPU Seconds: 0
+System CPU uSeconds: 592000
+Page Reclaims (Soft Page Faults): 262286
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 19
+Involuntary Context Switches: 5034
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44335867431
+L1 Data Cache Read Misses: 16587948
+DTLB Read Misses: 4200165
+
+User CPU Seconds: 59
+User CPU uSeconds: 4000
+System CPU Seconds: 0
+System CPU uSeconds: 552000
+Page Reclaims (Soft Page Faults): 262267
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 5078
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44349235960
+L1 Data Cache Read Misses: 16380807
+DTLB Read Misses: 4200516
+
+User CPU Seconds: 58
+User CPU uSeconds: 492000
+System CPU Seconds: 0
+System CPU uSeconds: 544000
+Page Reclaims (Soft Page Faults): 262270
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 4983
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44341965455
+L1 Data Cache Read Misses: 16115740
+DTLB Read Misses: 4199907
+
+User CPU Seconds: 58
+User CPU uSeconds: 556000
+System CPU Seconds: 0
+System CPU uSeconds: 544000
+Page Reclaims (Soft Page Faults): 262267
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 4983
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44333996187
+L1 Data Cache Read Misses: 15879494
+DTLB Read Misses: 4199016
+
+User CPU Seconds: 58
+User CPU uSeconds: 552000
+System CPU Seconds: 0
+System CPU uSeconds: 540000
+Page Reclaims (Soft Page Faults): 262269
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 4980
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44339265784
+L1 Data Cache Read Misses: 16209263
+DTLB Read Misses: 4199014
+
+User CPU Seconds: 58
+User CPU uSeconds: 556000
+System CPU Seconds: 0
+System CPU uSeconds: 544000
+Page Reclaims (Soft Page Faults): 262267
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 4982
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44342702137
+L1 Data Cache Read Misses: 16365797
+DTLB Read Misses: 4199461
+
+User CPU Seconds: 58
+User CPU uSeconds: 916000
+System CPU Seconds: 0
+System CPU uSeconds: 548000
+Page Reclaims (Soft Page Faults): 262269
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 5011
+---------------------------------------------
+FILE BACKED RANDOM MAP PRIVATE MAP POPULATE
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44326785424
+L1 Data Cache Read Misses: 20439782
+DTLB Read Misses: 4718010
+
+User CPU Seconds: 59
+User CPU uSeconds: 56000
+System CPU Seconds: 0
+System CPU uSeconds: 552000
+Page Reclaims (Soft Page Faults): 262268
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 5025
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44319755559
+L1 Data Cache Read Misses: 20616812
+DTLB Read Misses: 4717640
+
+User CPU Seconds: 58
+User CPU uSeconds: 900000
+System CPU Seconds: 0
+System CPU uSeconds: 548000
+Page Reclaims (Soft Page Faults): 262269
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 5016
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44325679606
+L1 Data Cache Read Misses: 20523466
+DTLB Read Misses: 4716801
+
+User CPU Seconds: 58
+User CPU uSeconds: 880000
+System CPU Seconds: 0
+System CPU uSeconds: 536000
+Page Reclaims (Soft Page Faults): 262268
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 5008
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44315618681
+L1 Data Cache Read Misses: 20458540
+DTLB Read Misses: 4717257
+
+User CPU Seconds: 58
+User CPU uSeconds: 880000
+System CPU Seconds: 0
+System CPU uSeconds: 548000
+Page Reclaims (Soft Page Faults): 262267
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 5009
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44320254823
+L1 Data Cache Read Misses: 20636798
+DTLB Read Misses: 4718478
+
+User CPU Seconds: 59
+User CPU uSeconds: 56000
+System CPU Seconds: 0
+System CPU uSeconds: 540000
+Page Reclaims (Soft Page Faults): 262269
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 5026
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44320380572
+L1 Data Cache Read Misses: 20146653
+DTLB Read Misses: 4717645
+
+User CPU Seconds: 58
+User CPU uSeconds: 916000
+System CPU Seconds: 0
+System CPU uSeconds: 544000
+Page Reclaims (Soft Page Faults): 262268
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 5016
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44322756178
+L1 Data Cache Read Misses: 20660115
+DTLB Read Misses: 4718530
+
+User CPU Seconds: 58
+User CPU uSeconds: 888000
+System CPU Seconds: 0
+System CPU uSeconds: 548000
+Page Reclaims (Soft Page Faults): 262270
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 5011
+---------------------------------------------
+FILE BACKED SEQUENTIAL MAP PRIVATE MEMSET
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44348496449
+L1 Data Cache Read Misses: 16053437
+DTLB Read Misses: 4199228
+
+User CPU Seconds: 58
+User CPU uSeconds: 780000
+System CPU Seconds: 0
+System CPU uSeconds: 560000
+Page Reclaims (Soft Page Faults): 262267
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 5005
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44346920579
+L1 Data Cache Read Misses: 15465196
+DTLB Read Misses: 4198946
+
+User CPU Seconds: 58
+User CPU uSeconds: 812000
+System CPU Seconds: 0
+System CPU uSeconds: 548000
+Page Reclaims (Soft Page Faults): 262267
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 5004
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44337174717
+L1 Data Cache Read Misses: 15921337
+DTLB Read Misses: 4200932
+
+User CPU Seconds: 58
+User CPU uSeconds: 760000
+System CPU Seconds: 0
+System CPU uSeconds: 604000
+Page Reclaims (Soft Page Faults): 262270
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 5046
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44337290466
+L1 Data Cache Read Misses: 16375194
+DTLB Read Misses: 4199411
+
+User CPU Seconds: 58
+User CPU uSeconds: 764000
+System CPU Seconds: 0
+System CPU uSeconds: 528000
+Page Reclaims (Soft Page Faults): 262269
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 4999
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44336027268
+L1 Data Cache Read Misses: 16451006
+DTLB Read Misses: 4199245
+
+User CPU Seconds: 58
+User CPU uSeconds: 740000
+System CPU Seconds: 0
+System CPU uSeconds: 568000
+Page Reclaims (Soft Page Faults): 262268
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 4998
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44337584162
+L1 Data Cache Read Misses: 16672833
+DTLB Read Misses: 4199474
+
+User CPU Seconds: 58
+User CPU uSeconds: 820000
+System CPU Seconds: 0
+System CPU uSeconds: 528000
+Page Reclaims (Soft Page Faults): 262267
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 5005
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44335736162
+L1 Data Cache Read Misses: 16281074
+DTLB Read Misses: 4199354
+
+User CPU Seconds: 59
+User CPU uSeconds: 144000
+System CPU Seconds: 0
+System CPU uSeconds: 508000
+Page Reclaims (Soft Page Faults): 262267
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 5028
+---------------------------------------------
+FILE BACKED RANDOM MAP PRIVATE MEMSET
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44323168558
+L1 Data Cache Read Misses: 20654823
+DTLB Read Misses: 4718205
+
+User CPU Seconds: 59
+User CPU uSeconds: 0
+System CPU Seconds: 0
+System CPU uSeconds: 548000
+Page Reclaims (Soft Page Faults): 262268
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 5018
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44321395000
+L1 Data Cache Read Misses: 20803823
+DTLB Read Misses: 4715769
+
+User CPU Seconds: 59
+User CPU uSeconds: 144000
+System CPU Seconds: 0
+System CPU uSeconds: 580000
+Page Reclaims (Soft Page Faults): 262269
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 5036
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44320198526
+L1 Data Cache Read Misses: 20284376
+DTLB Read Misses: 4718653
+
+User CPU Seconds: 59
+User CPU uSeconds: 128000
+System CPU Seconds: 0
+System CPU uSeconds: 564000
+Page Reclaims (Soft Page Faults): 262267
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 5033
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44317784555
+L1 Data Cache Read Misses: 20462007
+DTLB Read Misses: 4716464
+
+User CPU Seconds: 59
+User CPU uSeconds: 108000
+System CPU Seconds: 0
+System CPU uSeconds: 548000
+Page Reclaims (Soft Page Faults): 262268
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 5028
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44325498399
+L1 Data Cache Read Misses: 20311736
+DTLB Read Misses: 4718690
+
+User CPU Seconds: 59
+User CPU uSeconds: 156000
+System CPU Seconds: 0
+System CPU uSeconds: 504000
+Page Reclaims (Soft Page Faults): 262269
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 5032
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44305299653
+L1 Data Cache Read Misses: 20494305
+DTLB Read Misses: 4715718
+
+User CPU Seconds: 59
+User CPU uSeconds: 244000
+System CPU Seconds: 0
+System CPU uSeconds: 564000
+Page Reclaims (Soft Page Faults): 262269
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 5043
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44326179553
+L1 Data Cache Read Misses: 20639408
+DTLB Read Misses: 4712900
+
+User CPU Seconds: 58
+User CPU uSeconds: 996000
+System CPU Seconds: 0
+System CPU uSeconds: 568000
+Page Reclaims (Soft Page Faults): 262270
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 5021
+---------------------------------------------
+FILE BACKED SEQUENTIAL MAP PRIVATE MEMSET MEMSYNC
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44326291750
+L1 Data Cache Read Misses: 16817844
+DTLB Read Misses: 4198198
+
+User CPU Seconds: 58
+User CPU uSeconds: 744000
+System CPU Seconds: 0
+System CPU uSeconds: 556000
+Page Reclaims (Soft Page Faults): 262270
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 4999
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44333885540
+L1 Data Cache Read Misses: 16401953
+DTLB Read Misses: 4197810
+
+User CPU Seconds: 59
+User CPU uSeconds: 48000
+System CPU Seconds: 0
+System CPU uSeconds: 556000
+Page Reclaims (Soft Page Faults): 262267
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 5024
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44328300495
+L1 Data Cache Read Misses: 16365631
+DTLB Read Misses: 4199604
+
+User CPU Seconds: 58
+User CPU uSeconds: 892000
+System CPU Seconds: 0
+System CPU uSeconds: 548000
+Page Reclaims (Soft Page Faults): 262268
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 5010
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44346774537
+L1 Data Cache Read Misses: 16594523
+DTLB Read Misses: 4200107
+
+User CPU Seconds: 58
+User CPU uSeconds: 832000
+System CPU Seconds: 0
+System CPU uSeconds: 492000
+Page Reclaims (Soft Page Faults): 262269
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 4999
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44329870544
+L1 Data Cache Read Misses: 16604678
+DTLB Read Misses: 4198367
+
+User CPU Seconds: 58
+User CPU uSeconds: 760000
+System CPU Seconds: 0
+System CPU uSeconds: 536000
+Page Reclaims (Soft Page Faults): 262269
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 5000
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44327650143
+L1 Data Cache Read Misses: 16419349
+DTLB Read Misses: 4199796
+
+User CPU Seconds: 58
+User CPU uSeconds: 776000
+System CPU Seconds: 0
+System CPU uSeconds: 512000
+Page Reclaims (Soft Page Faults): 262269
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 4999
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44342076677
+L1 Data Cache Read Misses: 15970946
+DTLB Read Misses: 4199410
+
+User CPU Seconds: 58
+User CPU uSeconds: 664000
+System CPU Seconds: 0
+System CPU uSeconds: 580000
+Page Reclaims (Soft Page Faults): 262268
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 4996
+---------------------------------------------
+FILE BACKED RANDOM MAP PRIVATE MEMSET MEMSYNC
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44329527959
+L1 Data Cache Read Misses: 20335066
+DTLB Read Misses: 4719390
+
+User CPU Seconds: 59
+User CPU uSeconds: 112000
+System CPU Seconds: 0
+System CPU uSeconds: 528000
+Page Reclaims (Soft Page Faults): 262267
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 5026
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44332225697
+L1 Data Cache Read Misses: 19704705
+DTLB Read Misses: 4716186
+
+User CPU Seconds: 59
+User CPU uSeconds: 104000
+System CPU Seconds: 0
+System CPU uSeconds: 548000
+Page Reclaims (Soft Page Faults): 262269
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 5031
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44320272259
+L1 Data Cache Read Misses: 20364332
+DTLB Read Misses: 4718329
+
+User CPU Seconds: 59
+User CPU uSeconds: 96000
+System CPU Seconds: 0
+System CPU uSeconds: 528000
+Page Reclaims (Soft Page Faults): 262267
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 5028
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44321358513
+L1 Data Cache Read Misses: 21195482
+DTLB Read Misses: 4716254
+
+User CPU Seconds: 59
+User CPU uSeconds: 260000
+System CPU Seconds: 0
+System CPU uSeconds: 564000
+Page Reclaims (Soft Page Faults): 262267
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 5044
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44332012140
+L1 Data Cache Read Misses: 20420285
+DTLB Read Misses: 4714483
+
+User CPU Seconds: 59
+User CPU uSeconds: 152000
+System CPU Seconds: 0
+System CPU uSeconds: 532000
+Page Reclaims (Soft Page Faults): 262269
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 5034
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44328745134
+L1 Data Cache Read Misses: 20258220
+DTLB Read Misses: 4718922
+
+User CPU Seconds: 59
+User CPU uSeconds: 92000
+System CPU Seconds: 0
+System CPU uSeconds: 560000
+Page Reclaims (Soft Page Faults): 262269
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 5030
+---------------------------------------------
+--------------------------------------------
+Total Ram: 16826765312
+L1 Data Cache Read Accesses: 44321774357
+L1 Data Cache Read Misses: 20695273
+DTLB Read Misses: 4715860
+
+User CPU Seconds: 58
+User CPU uSeconds: 988000
+System CPU Seconds: 0
+System CPU uSeconds: 568000
+Page Reclaims (Soft Page Faults): 262267
+Hard Page Faults: 0
+Swaps: 0
+Voluntary Context Switches: 0
+Involuntary Context Switches: 5023
+---------------------------------------------

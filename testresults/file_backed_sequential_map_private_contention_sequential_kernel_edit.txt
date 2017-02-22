@@ -1,0 +1,121 @@
+FILE BACKED MAP PRIVATE SEQUENTIAL
+--------------------------------------------
+Total memsize is 7.80 GBs
+childPID:20241
+L1 Data Cache Read Accesses: 53211878881
+L1 Data Cache Read Misses: 34351306
+DTLB Read Misses: 5373770
+
+User CPU Seconds: 67
+User CPU uSeconds: 733000
+System CPU Seconds: 5
+System CPU uSeconds: 262000
+Page Reclaims (Soft Page Faults): 291268
+Hard Page Faults: 20336
+Swaps: 0
+Voluntary Context Switches: 20864
+Involuntary Context Switches: 3679
+---------------------------------------------
+--------------------------------------------
+childPID:20247
+Total memsize is 7.80 GBs
+L1 Data Cache Read Accesses: 53183954890
+L1 Data Cache Read Misses: 35507605
+DTLB Read Misses: 5379322
+
+User CPU Seconds: 72
+User CPU uSeconds: 740000
+System CPU Seconds: 6
+System CPU uSeconds: 13000
+Page Reclaims (Soft Page Faults): 269673
+Hard Page Faults: 6766
+Swaps: 0
+Voluntary Context Switches: 6985
+Involuntary Context Switches: 10399
+---------------------------------------------
+--------------------------------------------
+childPID:20254
+Total memsize is 7.80 GBs
+L1 Data Cache Read Accesses: 53199192877
+L1 Data Cache Read Misses: 36706402
+DTLB Read Misses: 5447491
+
+User CPU Seconds: 81
+User CPU uSeconds: 370000
+System CPU Seconds: 8
+System CPU uSeconds: 123000
+Page Reclaims (Soft Page Faults): 271163
+Hard Page Faults: 9989
+Swaps: 0
+Voluntary Context Switches: 10169
+Involuntary Context Switches: 14923
+---------------------------------------------
+--------------------------------------------
+childPID:20295
+Total memsize is 7.80 GBs
+L1 Data Cache Read Accesses: 53215351773
+L1 Data Cache Read Misses: 34734223
+DTLB Read Misses: 5392116
+
+User CPU Seconds: 74
+User CPU uSeconds: 608000
+System CPU Seconds: 5
+System CPU uSeconds: 736000
+Page Reclaims (Soft Page Faults): 269424
+Hard Page Faults: 4339
+Swaps: 0
+Voluntary Context Switches: 4397
+Involuntary Context Switches: 11106
+---------------------------------------------
+--------------------------------------------
+childPID:20301
+Total memsize is 7.80 GBs
+L1 Data Cache Read Accesses: 53211206199
+L1 Data Cache Read Misses: 35226128
+DTLB Read Misses: 5362848
+
+User CPU Seconds: 74
+User CPU uSeconds: 833000
+System CPU Seconds: 5
+System CPU uSeconds: 473000
+Page Reclaims (Soft Page Faults): 264968
+Hard Page Faults: 3964
+Swaps: 0
+Voluntary Context Switches: 4128
+Involuntary Context Switches: 10783
+---------------------------------------------
+--------------------------------------------
+childPID:20305
+Total memsize is 7.80 GBs
+L1 Data Cache Read Accesses: 53203712722
+L1 Data Cache Read Misses: 35562769
+DTLB Read Misses: 5381500
+
+User CPU Seconds: 73
+User CPU uSeconds: 214000
+System CPU Seconds: 6
+System CPU uSeconds: 482000
+Page Reclaims (Soft Page Faults): 267811
+Hard Page Faults: 6656
+Swaps: 0
+Voluntary Context Switches: 6755
+Involuntary Context Switches: 11340
+---------------------------------------------
+--------------------------------------------
+childPID:20312
+Total memsize is 7.80 GBs
+L1 Data Cache Read Accesses: 53208045061
+L1 Data Cache Read Misses: 35991335
+DTLB Read Misses: 5374340
+
+User CPU Seconds: 75
+User CPU uSeconds: 779000
+System CPU Seconds: 5
+System CPU uSeconds: 929000
+Page Reclaims (Soft Page Faults): 265859
+Hard Page Faults: 6255
+Swaps: 0
+Voluntary Context Switches: 6443
+Involuntary Context Switches: 11360
+---------------------------------------------
+
